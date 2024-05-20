@@ -11,3 +11,4 @@ minus.addEventListener("click", function () {
   count--;
   number.innerHTML = count;
 });
+/* this is an updated version to test version control and pulling the project */
