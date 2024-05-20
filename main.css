@@ -4,6 +4,33 @@ body {
 
 h1 {
   text-align: center;
-  color: darkgoldenrod;
-  font-size: 40px;
+  color: purple;
+  font-size: 60px;
+}
+
+.app {
+  width: 400px;
+  margin: 100px auto;
+  border-radius: 10px;
+  background-color: gray;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+}
+
+button {
+  background-color: orange;
+  border: 5px;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+}
+
+span {
+  color: #fff;
+  font-size: 30px;
 }
